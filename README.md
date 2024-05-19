@@ -12,7 +12,7 @@ A simple resource for FiveM that kicks players from your server after specific t
 
 1. **Download the Script**: Clone or download the repository to your local machine.
     ```sh
-    git clone https://github.com/yourusername/k3_antiafk.git
+    git clone https://github.com/byK3/k3_antiafk.git
     ```
 
 2. **Add to Server**: Place the `k3_antiafk` folder into your `resources` directory.
