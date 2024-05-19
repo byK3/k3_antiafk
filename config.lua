@@ -2,7 +2,7 @@ Config = {}
 
 Config.Debug = true
 
-Config.Interval = 30 -- in seconds (60 = 1 minute)
+Config.Interval = 900 -- in seconds (60 = 1 minute)
 Config.WarningDuration = 15 -- in seconds
 
 
